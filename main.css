@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  width: 100%;
+  margin-top: 50px;
+  padding: 4px;
+}
+.image1 {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+}
+.image1 img {
+  width: 500px;
+  height: 100%;
+  object-fit: cover;
+}
+.description {
+  display: flex;
+  width: 100%;
+}
